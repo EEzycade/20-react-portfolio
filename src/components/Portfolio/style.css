@@ -1,0 +1,4 @@
+.portfolio-div {
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,27 @@
+#my-name {
+    color: white;
+    font-size: 30px;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+.nav-btn {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+}
+
+.nav-btn:hover {
+    background-color: white;
+    background-size: small;
+    color: black;
+    border: 1px solid 10%;
+    border-radius: 5px;
+    text-decoration: underline 1px !important;
+    text-decoration-color: black;
+}

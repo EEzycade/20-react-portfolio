@@ -1,0 +1,26 @@
+[
+    {
+        "key": "1",
+        "title": "Health Wealth",
+        "image": "assets/health_wealth.jpg",
+        "description": "A community app that allows you to earn points by creating and sharing healthy habits and goals.",
+        "deployed": "https://healthwealth.herokuapp.com",
+        "repo": "https://github.com/Wsamuell/health-wealth"
+    },
+    {
+        "key": "2",
+        "title": "City Weather Forecast",
+        "image": "assets/weather-dashboard.jpg",
+        "description": "An app that allows you to enter a city in the search bar and view its current and future weather forecast.",
+        "deployed": "https://eezycade.github.io/weather-dashboard/",
+        "repo": "https://github.com/EEzycade/weather-dashboard"    
+    },
+    {
+        "key": "3",
+        "title": "Hangry Hangry Hippos",
+        "image": "assets/hangry_hippos.jpg",
+        "description": "An app that allows you to enter your address, set your range, and see restaurant recommendations.",
+        "deployed": "https://eezycade.github.io/Restaurant-Recommender/",
+        "repo": "https://github.com/EEzycade/Restaurant-Recommender"       
+    }
+]
